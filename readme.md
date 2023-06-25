@@ -16,4 +16,4 @@ traindataprocess.py represents the process of preprocessing input data.
 
 v1.py represents the integration of PyQt.
 
-dataset.zip represents the dataset.
+dataset.zip represents the dataset.(RADHAR dataset is used)
