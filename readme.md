@@ -1,6 +1,6 @@
-This project is designed using PyTorch, PyQt, and Python 3.9.
+This project is for personal learning purposes only.
 
-The file model.pth represents the pre-trained model.
+The project only provides one demo, based on personal device implementation and designed using PyTorch, PyQt, and Python 3.9.
 
 Poinact.py represents the process of model training and optimization.
 
